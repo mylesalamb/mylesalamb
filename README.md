@@ -4,8 +4,8 @@
 > help --info
 > "Recently tinkering with mainly C although I have been learning some 
   C++ on the side for where C doesn't quite cut it."
-> "Currently an undergraduate at University of Glasgow studying computer science"
-> "I enjoy tinkering with linux and I am currently running Fedora and Void Linux on my two systems"
+> "Currently an undergraduate at University of Glasgow studying computer science. Future technology analyst at Morgan Stanley"
+> "I enjoy tinkering with linux, running Fedora on my two systems. With a budding interest in FreeBSD."
 ```
 
 ```Bash
